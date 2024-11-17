@@ -1,4 +1,4 @@
-# Performance Engineering Interview Questions and Scenarios
+# Performance Engineering Questions and Scenarios
 
 
 ## **1. Resume-Based Questions**
